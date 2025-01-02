@@ -5,7 +5,8 @@ Now, let’s get into a detailed step-by-step process on how you can use the pla
 
 About eAuction.gov.in
 
-The official eAuction.gov.in platform is optimized for specific browsers. It works best with older versions of Internet Explorer or Firefox. Users are advised to check browser compatibility for optimal functionality. Proper Java configurations are essential to ensure the platform's features, such as login and bidding functionalities, work seamlessly.
+The official eAuction.gov.in platform is optimized for specific browsers. It works best with older versions of Internet Explorer or Firefox. Users are advised to check browser compatibility for optimal functionality. 
+Proper Java configurations are essential to ensure the platform's features, such as login and bidding functionalities, work seamlessly.
 Guide to Use the Official Website
 
 Browser and Java Settings:
